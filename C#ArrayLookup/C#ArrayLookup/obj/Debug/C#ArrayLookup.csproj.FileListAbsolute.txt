@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\bin\Debug\C#ArrayLookup.exe.config
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\bin\Debug\C#ArrayLookup.exe
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\bin\Debug\C#ArrayLookup.pdb
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C#ArrayLookup.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C#ArrayLookup.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C_ArrayLookup.frmArrayLookup.resources
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C_ArrayLookup.Properties.Resources.resources
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C#ArrayLookup.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C#ArrayLookup.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C#ArrayLookup.exe
+C:\Users\jpscott\Desktop\CSharpArrayLookup\C#ArrayLookup\C#ArrayLookup\obj\Debug\C#ArrayLookup.pdb
